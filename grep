@@ -1,0 +1,4 @@
+The grep command is used to search text or searches the given file for lines containing a match to the given strings or words. 
+By default, grep displays the matching lines. Use grep to search for lines of text that match one or many regular expressions, 
+and outputs only the matching lines. 
+grep is considered as one of the most useful commands on Linux and Unix-like operating systems.
